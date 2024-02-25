@@ -2,3 +2,7 @@ Highlights & Device Specific Changes:
 Build type: Stable
 Device: Redmi 9T
 Device maintainer: ash
+
+=====  25 February 2024 =====
+
+* Initial release
