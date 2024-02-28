@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1709085205,
+	"filename": "GenesisOS-Utopia-v1.0-alioth-OFFICIAL-20240228-0143.zip",
+	"id": "c3d6eda58fb7efc07b0232f2b448f2a4a0c72e34f4c013e740575e341da05e10",
+	"size": 2080901643,
+        "url": "https://dl.genesisos.dev/0:/alioth/GenesisOS-Utopia-v1.0-alioth-OFFICIAL-20240228-0143.zip",
+        "version": "v1.0",
+	"devicename": "Poco F3/ Mi 11x",
+	"maintainer": "Yoriscape x Pain"
+    }
+  ]
+}
