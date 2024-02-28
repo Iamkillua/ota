@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1709111853,
+	"filename": "GenesisOS-Utopia-v1.0-munch-OFFICIAL-20240228-0907.zip",
+	"id": "c2052abf1ca863d3ba38f0ed40aa2dce29342182a4e57fa76262bff20d961efe",
+	"size": 2117565577,
+        "url": "https://dl.genesisos.dev/0:/munch/GenesisOS-Utopia-v1.0-munch-OFFICIAL-20240228-0907.zip",
+        "version": "v1.0",
+	"devicename": "Poco F4",
+	"maintainer": "Yoriscape x Asad"
+    }
+  ]
+}

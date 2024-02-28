@@ -2,3 +2,7 @@ Highlights & Device Specific Changes:
 Build type: Stable
 Device: Poco F4
 Device maintainer: Yoriscape x Asad
+
+=====  28 February 2024 =====
+
+* Initial release
