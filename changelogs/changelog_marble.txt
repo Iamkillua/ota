@@ -3,6 +3,12 @@ Build type: Stable
 Device: Poco F5
 Device maintainer: Prajwal x Nitish x Talha
 
+=====  03 March 2024 =====
+
+* SMS Issue Fixed
+* Improved Performance
+* Improved Battery Backup
+
 =====  23 February 2024 =====
 
 * Initial release
