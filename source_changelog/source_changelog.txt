@@ -1,3 +1,25 @@
+===== 25 May 2024 =====
+
+* May Security Patch
+* Initial QPR2 release
+* Added support for signature spoofing of microG Companion/Services
+* Introduced new refresh rate selector page
+* Added toggle to enable ADB root
+* Added page for Screen-Off UDFPS
+* Brought back battery usage graph
+* Added extended Battery info page
+* Added support for Circle to Search
+* Added support for Cinematic Wallpapers
+* Added GamesProps to unlock higher FPS in games
+* Redesigned our volume panel
+* Added toggle to enable/disable screenshot shutter sound
+* Added support for Pocket Mode
+* Added option to force full screen in apps
+* Added option to switch between 4G and LTE icon
+* Added support for Phone Link
+* Enabled cloned apps page
+* Added option for icon shapes, icon packs and fonts Customization
+
 ===== 14 February 2024 =====
 
 * February Security Patch
