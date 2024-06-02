@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1717340491,
+	"filename": "GenesisOS-Utopia-v2.0-gauguin-OFFICIAL-20240602-1501.zip",
+	"id": "0a7f393d2a5dc0a000f2214b8270a3a78cd5d35d6b689d14eea69389edb6149d",
+	"size": 2325430718,
+        "url": "https://dl.genesisos.dev/0:/gauguin/GenesisOS-Utopia-v2.0-gauguin-OFFICIAL-20240602-1501.zip",
+        "version": "v2.0",
+	"devicename": "Redmi Note 9 Pro 5G / Mi 10T Lite / Mi 10i",
+	"maintainer": "Penguin"
+    }
+  ]
+}
