@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "datetime": 1708608546,
-	"filename": "GenesisOS-Utopia-v1.0-beryllium-OFFICIAL-20240222-1329.zip",
-	"id": "fc0765877119cbde5f7026476d8ee4f32412fe55dfb29eff08574a1f48e75354",
-	"size": 2139667331,
-        "url": "https://dl.genesisos.dev/0:/beryllium/GenesisOS-Utopia-v1.0-beryllium-OFFICIAL-20240222-1329.zip",
-        "version": "v1.0",
+        "datetime": 1717344014,
+	"filename": "GenesisOS-Utopia-v2.0-beryllium-OFFICIAL-20240602-1601.zip",
+	"id": "48acd695962fee612c03e89e4ac79e3c0eef0ecddb58b023bfff9dc9a7b2a38b",
+	"size": 1980728329,
+        "url": "https://dl.genesisos.dev/0:/beryllium/GenesisOS-Utopia-v2.0-beryllium-OFFICIAL-20240602-1601.zip",
+        "version": "v2.0",
 	"devicename": "Poco F1",
 	"maintainer": "Akshat"
     }
