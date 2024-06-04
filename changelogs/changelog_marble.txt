@@ -1,7 +1,15 @@
 Highlights & Device Specific Changes:
 Build type: Stable
 Device: Poco F5
-Device maintainer: Prajwal x Nitish x Talha
+Device maintainer: Prajwal x Talha
+
+=====  04 June 2024 =====
+
+* Switched to LineageOS trees
+* Nuked Dolby
+* Added JamesDSP
+* Improved Performance
+* Improved Battery Backup
 
 =====  03 March 2024 =====
 

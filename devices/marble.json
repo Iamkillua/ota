@@ -1,14 +1,14 @@
 {
   "response": [
     {
-        "datetime": 1709459500,
-	"filename": "GenesisOS-Utopia-v1.0-marble-OFFICIAL-20240303-0954.zip",
-	"id": "69e1c140682c394877c25ac8c4b6402446d6bfeafdda0e12335555ae8ad9b760",
-	"size": 2392764659,
-        "url": "https://dl.genesisos.dev/0:/marble/GenesisOS-Utopia-v1.0-marble-OFFICIAL-20240303-0954.zip",
-        "version": "v1.0",
+        "datetime": 1717433015,
+	"filename": "GenesisOS-Utopia-v2.0-marble-OFFICIAL-20240603-1644.zip",
+	"id": "7bdaf826f300b58a69964e3967c2c031fc635d9606b1568505104010d8928eac",
+	"size": 2631194010,
+        "url": "https://dl.genesisos.dev/0:/marble/GenesisOS-Utopia-v2.0-marble-OFFICIAL-20240603-1644.zip",
+        "version": "v2.0",
 	"devicename": "Poco F5",
-	"maintainer": "Prajwal x Nitish x Talha"
+	"maintainer": "Prajwal x Talha"
     }
   ]
 }
