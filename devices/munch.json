@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "datetime": 1717605238,
-	"filename": "GenesisOS-Utopia-v2.0-munch-OFFICIAL-20240605-1635.zip",
-	"id": "86ca28be42bb2e89f5f24279d4d75b0e52e9142ae1a2599ffe96cf026e8f1f3e",
-	"size": 2242777565,
-        "url": "https://dl.genesisos.dev/0:/munch/GenesisOS-Utopia-v2.0-munch-OFFICIAL-20240605-1635.zip",
+        "datetime": 1717700019,
+	"filename": "GenesisOS-Utopia-v2.0-munch-OFFICIAL-20240606-1853.zip",
+	"id": "244491166c73282f8898be123f7cff660af8f5e703149083321fb16985af9ad2",
+	"size": 2238190967,
+        "url": "https://dl.genesisos.dev/0:/munch/GenesisOS-Utopia-v2.0-munch-OFFICIAL-20240606-1853.zip",
         "version": "v2.0",
 	"devicename": "POCO F4",
 	"maintainer": "Yoriscape"
