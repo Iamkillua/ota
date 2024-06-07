@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1717704286,
+        "filename": "GenesisOS-Utopia-v2.0-miatoll-OFFICIAL-20240606-2006.zip",
+        "id": "2b7fb540b38a65d01c52e97373f01d7b2c2be8189ae0a150a2829183a967c8a8",
+        "size": 2229666601,
+        "url": "https://dl.genesisos.dev/0:/miatoll/GenesisOS-Utopia-v2.0-miatoll-OFFICIAL-20240606-2006.zip",
+        "version": "v2.0",
+        "devicename": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
+        "maintainer": "RiteshSahany"
+    }
+  ]
+}
