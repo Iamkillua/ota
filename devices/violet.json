@@ -1,14 +1,14 @@
 {
   "response": [
     {
-        "datetime": 1708665239,
-	"filename": "GenesisOS-Utopia-v1.0-violet-OFFICIAL-20240223-0533.zip",
-	"id": "c1ea6eb9c0ed5c8fdca02f26fb8d0ec9a3d8961cfd45e721efc0086c2bb121b8",
-	"size": 2189104639,
-        "url": "https://dl.genesisos.dev/0:/violet/GenesisOS-Utopia-v1.0-violet-OFFICIAL-20240223-0533.zip",
-        "version": "v1.0",
+        "datetime": 1717867877,
+	"filename": "GenesisOS-Utopia-v2.0-violet-OFFICIAL-20240608-1732.zip",
+	"id": "6c93caa19a96914477869063aeb714a431c625f18469cecd71d5d34840658b21",
+	"size": 2454468900,
+        "url": "https://dl.genesisos.dev/0:/violet/GenesisOS-Utopia-v2.0-violet-OFFICIAL-20240608-1732.zip",
+        "version": "v2.0",
 	"devicename": "Redmi Note 7 Pro",
-	"maintainer": "Asad x Pain"
+	"maintainer": "Pain"
     }
   ]
 }
