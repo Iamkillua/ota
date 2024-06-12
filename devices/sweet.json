@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "datetime": 1718165649,
-	"filename": "GenesisOS-Utopia-v2.0-sweet-OFFICIAL-20240612-0414.zip",
-	"id": "166beef8242dac0fc2f5d49bf735d4624604a6926d591266fe4147c454d04dfc",
-	"size": 2357085319,
-        "url": "https://dl.genesisos.dev/0:/sweet/GenesisOS-Utopia-v2.0-sweet-OFFICIAL-20240612-0414.zip",
+        "datetime": 1718207176,
+	"filename": "GenesisOS-Utopia-v2.0-sweet-OFFICIAL-20240612-1547.zip",
+	"id": "8d0b8bd1ae71df2870aeb89a4cca6f0fdbe60f42855851133f9d2b500dac9231",
+	"size": 2314251447,
+        "url": "https://dl.genesisos.dev/0:/sweet/GenesisOS-Utopia-v2.0-sweet-OFFICIAL-20240612-1547.zip",
         "version": "v2.0",
 	"devicename": "Redmi Note 10 Pro",
 	"maintainer": "Alen"
