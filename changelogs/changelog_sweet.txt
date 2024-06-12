@@ -5,6 +5,7 @@ Device maintainer: Alen
 
 ===== 12 June 2024 =====
 
+* Fixed MiuiCamera crashing
 * Updated Graphics blob to reduce QS Lag
 * Switched to SkiaGL For UI smoothness
 
