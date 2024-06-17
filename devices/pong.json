@@ -1,0 +1,14 @@
+{
+  "response": [
+    {
+        "datetime": 1718557281,
+	"filename": "GenesisOS-Utopia-v2.0-Pong-OFFICIAL-20240616-1702.zip",
+	"id": "fa5799407006f52b79c7114343342b21733f823bd0c4cbb7de6cb95ec9960cfe",
+	"size": 2348449940,
+        "url": "https://dl.genesisos.dev/0:/pong/GenesisOS-Utopia-v2.0-Pong-OFFICIAL-20240616-1702.zip",
+        "version": "v2.0",
+	"devicename": "Nothing Phone 2",
+	"maintainer": "MNoxx74"
+    }
+  ]
+}
