@@ -1,7 +1,9 @@
 import os
 print("Script loaded")
 os.chdir("/home/runner/work/ota/ota")
-
-dir_list=os.listdir("/home/runner/work/ota/ota/ota/devices")
+file_list=os.listdir("/home/runner/work/ota/ota/ota/devices")
+dir_list=[]
+for i in dir_list:
+    j=i.replace(".json","")
+    dir_list.append(j)
 print(dir_list)
-
