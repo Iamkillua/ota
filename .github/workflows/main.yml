@@ -18,6 +18,7 @@ jobs:
         run: |
           git config --global user.email "${{ env.EMAIL }}"
           git config --global user.name "${{ env.USERNAME }}"
+          echo ${{ env.EMAIL }}          
           git clone https://${{ env.ORG_NAME }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ env.ORG_NAME }}/ota.git
           git clone https://${{ env.ORG_NAME }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ env.ORG_NAME }}/Website-Data.git                 
           cd Website-Data
