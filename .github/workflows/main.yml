@@ -24,7 +24,6 @@ jobs:
           cd Website-Data
           git checkout v2
           cd -
-          pwd
           cd ota
           git checkout utopia-2.0
           python3 copy_files.py
