@@ -19,8 +19,8 @@ jobs:
           git config --global user.email "${{ env.EMAIL }}"
           git config --global user.name "${{ env.USERNAME }}"
           echo ${{ env.EMAIL }}          
-          git clone https://${{ env.ORG_NAME }}:${{ secrets.GH_TOKEN }}@github.com/${{ env.ORG_NAME }}/ota.git
-          git clone https://${{ env.ORG_NAME }}:${{ secrets.GH_TOKEN }}@github.com/${{ env.ORG_NAME }}/Website-Data.git                 
+          git clone https://${{ env.ORG_NAME }}:${{ env.GH_TOKEN }}@github.com/${{ env.ORG_NAME }}/ota.git
+          git clone https://${{ env.ORG_NAME }}:${{ env.GH_TOKEN }}@github.com/${{ env.ORG_NAME }}/Website-Data.git                 
           cd Website-Data
           git checkout v2
           cd
@@ -28,12 +28,8 @@ jobs:
           git checkout utopia-2.0
           pyhon3 copy_files.py
 
-          
-          
-          git push --set-upstream origin utopia-2.0
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ env.GH_TOKEN }}
           ORG_NAME: ${{ env.ORG_NAME }}
           EMAIL: ${{ env.EMAIL }}
           USERNAME: ${{ env.USERNAME }}
