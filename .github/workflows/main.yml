@@ -27,7 +27,7 @@ jobs:
           ls
           cd ota
           git checkout utopia-2.0
-          pyhon copy_files.py
+          python3 copy_files.py
 
         env:
           GH_TOKEN: ${{ vars.GH_TOKEN }}
