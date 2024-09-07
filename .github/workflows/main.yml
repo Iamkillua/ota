@@ -1,0 +1,35 @@
+name: Sync Repos
+
+on:
+  push:
+    branches:
+      - utopia-2.0
+  
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v2
+
+      - name: Copy to the destination repository
+        run: |
+          git config --global user.email "${{ env.EMAIL }}"
+          git config --global user.name "${{ env.USERNAME }}"
+          echo ${{ env.EMAIL }}          
+          git clone https://${{ env.ORG_NAME }}:${{ env.GH_TOKEN }}@github.com/${{ env.ORG_NAME }}/ota.git
+          git clone https://${{ env.ORG_NAME }}:${{ env.GH_TOKEN }}@github.com/${{ env.ORG_NAME }}/Website-Data.git               
+          cd Website-Data
+          git checkout v2
+          cd -
+          cd ota
+          git checkout utopia-2.0
+          python3 copy_files.py
+
+        env:
+          GH_TOKEN: ${{ vars.GH_TOKEN }}
+          ORG_NAME: ${{ vars.ORG_NAME }}
+          EMAIL: ${{ vars.EMAIL }}
+          USERNAME: ${{ vars.USERNAME }}
