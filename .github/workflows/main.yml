@@ -20,10 +20,10 @@ jobs:
           git config --global user.name "${{ env.USERNAME }}"
           echo ${{ env.EMAIL }}          
           git clone https://${{ env.ORG_NAME }}:${{ env.GH_TOKEN }}@github.com/${{ env.ORG_NAME }}/ota.git
-          git clone https://${{ env.ORG_NAME }}:${{ env.GH_TOKEN }}@github.com/${{ env.ORG_NAME }}/Website-Data.git                 
+          git clone https://${{ env.ORG_NAME }}:${{ env.GH_TOKEN }}@github.com/${{ env.ORG_NAME }}/Website-Data.git               
           cd Website-Data
           git checkout v2
-          cd
+          cd..
           ls
           cd ota
           git checkout utopia-2.0
